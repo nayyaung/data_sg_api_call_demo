@@ -1,4 +1,4 @@
-# API call to open data host using nodejs
+# Demo API call to open data host using nodejs
 - Main purpose is to demostrate Rest API call to api.data.gov.sg
 
 ## Requirements & Assumption
