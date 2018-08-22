@@ -1,0 +1,25 @@
+{
+  "name": "data_sg_api_call_demo",
+  "version": "1.0.0",
+  "description": "demo test api call to data.gov.sg",
+  "main": "app.js",
+  "dependencies": {
+    "moment": "^2.22.2",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayyaung/data_sg_api_call_demo.git"
+  },
+  "author": "Nay Yaung",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nayyaung/data_sg_api_call_demo/issues"
+  },
+  "homepage": "https://github.com/nayyaung/data_sg_api_call_demo#readme"
+}
