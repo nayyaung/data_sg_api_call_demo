@@ -8,7 +8,7 @@
 - data api host (https://api.data.gov.sg/v1/environment/pm25) must be up when running the programm.
 
 ## How to run  
-- Open 'command prompt' using administrator right.
+- On Windows, Open 'command prompt' using administrator right.
 - Run this command below:
 ```console
 npm install && npm start
